@@ -17,3 +17,4 @@ Compile Yourself:
 
 # Credits
 CypherpunkSamurai - Me :P
+Disclaimer: This tool is to be used for bypassing frp on personal devices. Please don't use for illegal uses. I will not be liable for any misuse of this tool.
